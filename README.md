@@ -53,6 +53,33 @@
 
 ---
 
+## 🏆 Trophy Cabinet
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Surya-ux-max&theme=onedark&row=1&column=6&margin-w=15&margin-h=15" alt="Trophy Cabinet" />
+</p>
+
+---
+
+## ⏳ Contribution Timeline & Commit Highlights
+
+<div align="center">
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Surya-ux-max&theme=rogue" alt="Contribution Graph" />
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Surya-ux-max&show_icons=true&theme=midnight-purple" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surya-ux-max&theme=highcontrast" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Surya-ux-max&theme=github_dark" alt="Profile Details" />
+</div>
+
+---
+
 ## 🌐 Connect with Me
 
 <p align="center">
