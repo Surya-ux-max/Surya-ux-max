@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Suryaprakash!;Fullstack+Developer+%7C+Gen+AI+Engineer+%7C+Data+Engineer+%7C+Power+BI+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F75C7E&center=true&vCenter=true&multiline=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Suryaprakash!;Fullstack+Developer+%7C+AI+%7C+Data+Engineering" />
 </p>
 
 <!-- Badges & Profile Views -->
@@ -53,57 +53,9 @@
 
 ---
 
-## 🚩 Featured Projects
-
-<div align="center">
-
-  <a href="https://github.com/Surya-ux-max/Portfolio" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Surya-ux-max&repo=Portfolio&theme=midnight-purple" />
-  </a>
-  <a href="https://github.com/Surya-ux-max/summarizer" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Surya-ux-max&repo=summarizer&theme=midnight-purple" />
-  </a>
-
-</div>
-
----
-
-## 🏆 Trophy Cabinet
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Surya-ux-max&theme=onedark&row=1&column=6&margin-w=15&margin-h=15" alt="Trophy Cabinet" />
-</p>
-
----
-
-## ⏳ Contribution Timeline & Commit Highlights
-
-<div align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Surya-ux-max&theme=rogue" alt="Contribution Graph" />
-</div>
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Surya-ux-max&show_icons=true&theme=midnight-purple" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Surya-ux-max&theme=highcontrast" alt="GitHub Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Surya-ux-max&theme=github_dark" alt="Profile Details" />
-</div>
-
----
-
 ## 🌐 Connect with Me
 
 <p align="center">
   <a href="mailto:suryapr.exe14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/suryaprakash-s-20269631a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=F75C7E&height=80&section=footer&fontSize=20&text=Let's%20build%20something%20amazing%20together!"/>
 </p>
