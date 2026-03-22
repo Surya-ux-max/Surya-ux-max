@@ -1,27 +1,78 @@
+# 👋 Hey, I'm Suryaprakash
 
-<!-- About Me -->
-## 👨‍💻 About Me
+I don't just write code — I build systems that solve real-world problems.
 
-<p align="center">
-🚀 Building intelligent, scalable solutions for modern businesses.<br>
-💡 Exploring Fullstack development, Generative AI, Data Engineering, and Power BI analytics.<br>
-📚 Eager to learn, collaborate, and create impact through technology.<br>
-</p>
+From AI-powered study tools to rural healthcare platforms,  
+my goal is simple:
 
----
-
-## ⏳ Contribution Timeline & Commit Highlights
-
-<div align="center">
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Surya-ux-max&theme=rogue" alt="Contribution Graph" />
-</div>
+👉 Use technology to create impact where it actually matters.
 
 ---
 
-## 🌐 Connect with Me
+## 🚀 My Journey
 
-<p align="center">
-<a href="mailto:suryapr.exe14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/suryaprakash-s-20269631a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+I started like most developers — learning syntax, building small projects.
+
+But I quickly realized something:
+
+> Code alone doesn’t matter. Problems do.
+
+Since then, I’ve focused on building solutions that are:
+- Scalable
+- Practical
+- Impact-driven
+
+---
+
+## 🧠 What I'm Building
+
+🔹 AI Study Assistant  
+Helping students learn smarter using AI-powered tools  
+
+🔹 Rural Healthcare Platform  
+Connecting underserved communities with accessible healthcare  
+
+🔹 Modern Web Platforms  
+Fast, scalable apps using Next.js, Django & MongoDB  
+
+---
+
+## ⚙️ How I Build
+
+I focus on combining:
+
+- 💻 Fullstack Development  
+- 🤖 Generative AI  
+- 📊 Data & Analytics  
+- ☁️ Scalable Backend Systems  
+
+---
+
+## 📈 Growth Mindset
+
+I believe in:
+- Learning by building  
+- Breaking things & improving them  
+- Staying consistent over being perfect  
+
+---
+
+## 🎯 Current Focus
+
+- 🚀 System Design & DevOps  
+- 🧠 Applied AI in real-world problems  
+- 🌍 Building impactful products  
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
+- 🌐 Portfolio: https://yourportfolio.com  
+- 📧 Email: your@email.com  
+
+---
+
+## ⚡ Final Thought
+
+> "Don’t just build projects. Build things that matter."
