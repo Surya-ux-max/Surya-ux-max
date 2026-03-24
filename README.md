@@ -1,4 +1,3 @@
-this is the one - 
 <!-- About Me -->
 ## 👨‍💻 About Me
 
