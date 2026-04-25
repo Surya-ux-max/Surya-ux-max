@@ -3,7 +3,7 @@
 
 <p align="center">
 🚀 Building intelligent, scalable solutions for modern businesses.<br>
-💡 Exploring Fullstack development,AI Engineer<br>
+💡 Exploring Fullstack development,AI<br>
 📚 Eager to learn, collaborate, and create impact through technology.<br>
 </p>
 
