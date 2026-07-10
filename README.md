@@ -63,40 +63,14 @@
 
 <br/>
 
-## 🚀 Currently Building
+## ⏳ Contribution Timeline & Commit Highlights
 
-**SurveX** — an AI-based platform for predicting adverse drug reactions and
-analyzing medication interactions.
-**"Predict Before You Prescribe."**
+<div align="center">
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Surya-ux-max&theme=rogue" alt="Contribution Graph" />
+</div>
 
-- 🔬 Focused on clinical AI trust & explainability (SHAP, LIME)
-- 🧠 Exploring multi-agent systems and shared-memory infrastructure
-- 🏆 Actively building and pitching at hackathons
-
-<br/>
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
-
-<br/>
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Surya-ux-max&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-ux-max&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Surya-ux-max&theme=tokyonight&hide_border=true" />
-
-<br/>
+---
 
 ## 📫 Reach Me
 
