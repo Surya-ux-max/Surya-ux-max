@@ -1,11 +1,9 @@
-<!-- About Me -->
-## 👨‍💻 About Me
-
-<p align="center">
-🚀 Building intelligent, scalable solutions for modern businesses.<br>
-💡 Exploring Fullstack development,AI<br>
-📚 Eager to learn, collaborate, and create impact through technology.<br>
-</p>
+<!-- Hero Images -->
+<div align="center">
+<img src="https://github.com/Surya-ux-max/Surya-ux-max/raw/main/hero1.png" alt="Hero Image 1" width="100%" />
+<img src="https://github.com/Surya-ux-max/Surya-ux-max/raw/main/hero2.png" alt="Hero Image 2" width="100%" />
+<img src="https://github.com/Surya-ux-max/Surya-ux-max/raw/main/hero3.png" alt="Hero Image 3" width="100%" />
+</div>
 
 ---
 
