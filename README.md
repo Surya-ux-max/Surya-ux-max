@@ -1,22 +1,6 @@
 # 👨‍💻 Suryaprakash S
 ### Aspiring AI Engineer & Full Stack Researcher
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-8B0000?style=flat-square" alt="AI Focus" />
-  <img src="https://img.shields.io/badge/Research-Deep%20Learning%20%26%20Vision-161b22?style=flat-square" alt="Research" />
-  <img src="https://img.shields.io/badge/Stack-Full%20Stack%20Development-8B0000?style=flat-square" alt="Full Stack" />
-</p>
-
-> Dedicated to engineering intelligent systems, advancing computer vision & NLP research, and architecting scalable full-stack applications.
-
----
-
-## 📌 Professional Overview
-
-- 🔭 **Specialization:** Machine Learning, Computer Vision, RAG & NLP Architectures
-- ⚙️ **Engineering:** Scalable Backend Services, Modern Full-Stack Platforms & AI Pipelines
-- 🎯 **Current Focus:** Open Source Contributions, AI Systems & Real-World Deployments
-
 ---
 
 ## 🔥 GitHub Streaks & Activity
