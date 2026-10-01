@@ -1,24 +1,33 @@
-<!-- Hero Images -->
+<!-- Hero Banner -->
 <div align="center">
-<img src="https://github.com/Surya-ux-max/Surya-ux-max/raw/main/hero1.png" alt="Hero Image 1" width="100%" />
-<img src="https://github.com/Surya-ux-max/Surya-ux-max/raw/main/hero2.png" alt="Hero Image 2" width="100%" />
-<img src="https://github.com/Surya-ux-max/Surya-ux-max/raw/main/hero3.png" alt="Hero Image 3" width="100%" />
+  <img src="hero1.png" alt="Suryaprakash S - Aspiring AI Engineer & Full Stack Researcher" width="100%" />
 </div>
 
----
+<br/>
 
-## ⏳ Contribution Timeline & Commit Highlights
-
+<!-- Contribution Timeline -->
 <div align="center">
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Surya-ux-max&theme=rogue" alt="Contribution Graph" />
+  <h2>⏳ Contribution Timeline & Activity</h2>
+  <a href="https://github.com/Surya-ux-max">
+    <img src="https://ghchart.rshah.org/ea3943/Surya-ux-max" alt="Surya-ux-max's Contribution Graph" width="100%" />
+  </a>
 </div>
 
----
+<br/>
 
-## 🌐 Connect with Me
+<hr style="border: 0; height: 1px; background: #333;" />
 
-<p align="center">
-<a href="mailto:suryapr.exe14@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/suryaprakash-s-20269631a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+<!-- Connect with Me -->
+<div align="center">
+  <h2>🌐 Connect with Me</h2>
+  <p>
+    <a href="mailto:suryapr.exe14@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/suryaprakash-s-20269631a/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+  </p>
+</div>
+
